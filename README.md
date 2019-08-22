@@ -3,4 +3,4 @@ A simple calculator built using Python 3.7 and tkinter library for GUI. Also, La
 
 Here is the snapshot of the calculator app:-
 
-![Calculator](calc.jpg)
+![Calculator](calc.JPG)
